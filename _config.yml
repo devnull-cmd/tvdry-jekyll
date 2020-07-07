@@ -1,14 +1,14 @@
 # Site
-name: 'TV Dry'
-description: 'TV Dry'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: ''
-# disqus: 'demowebsite'  TODO create and add disqus id
-email: 'tvdry@tvdry.com'
+name:          'TV Dry'
+description:   'TV Dry'
+logo:          'assets/images/logo.png'
+favicon:       'assets/images/favicon.ico'
+baseurl:       ''
+# disqus:      'demowebsite'  TODO create and add disqus id
+email:         'tvdry@tvdry.com'
 
-include: ["_pages"]
-permalink: /:title/
+include:       ["_pages"]
+permalink:     /:title/
 
 # Plugins
 plugins:
@@ -19,46 +19,44 @@ plugins:
 
 authors:
     deven:
-      name:           Deven
-      site:           https://deven.tvdry.com
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Deven, SDE at Amazon"
-      email:          deven@tvdry.com
-      twitter:        https://twitter.com/askdeven
+      name:    Deven
+      site:    https://deven.tvdry.com
+      avatar:  /assets/images/avatar1.jpg
+      bio:     "Hi, I am Deven, SDE at Amazon"
+      email:   deven@tvdry.com
+      twitter: https://twitter.com/askdeven
 
     shuvam:
-      name:           Shuvam
-      site:           https://shuvam.tvdry.com
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          shuvam@tvdry.com
-      twitter:        https://twitter.com/askshuvam
+      name:    Shuvam
+      site:    https://shuvam.tvdry.com
+      avatar:  /assets/images/avatar2.jpg
+      bio:     "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:   shuvam@tvdry.com
+      twitter: https://twitter.com/askshuvam
 
 # Defaults
 defaults:
 
   # all posts
   - scope:
-      path: "_posts"
+      path:    "_posts"
     values:
-      layout: post
-      author: deven
-      avatar: /assets/images/avatar1.jpg
+      layout:  post
+      author:  deven
+      avatar:  /assets/images/avatar1.jpg
 
   # all pages
   - scope:
-      path: "_pages"
+      path:    "_pages"
     values:
-      layout: page
+      layout:  page
 
 # Syntax
-markdown: kramdown
-highlighter: rouge
+markdown:      kramdown
+highlighter:   rouge
 
 # Paginate
-paginate: 10
-
-
+paginate:      10
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:       [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

@@ -2,7 +2,7 @@
 name:          'TV Dry'
 description:   'TV Dry'
 logo:          'assets/images/logo.png'
-favicon:       'assets/images/favicon.ico'
+# favicon:       'assets/images/favicon.ico' TODO Create Favicon and Add it
 baseurl:       ''
 # disqus:      'demowebsite'  TODO create and add disqus id
 email:         'tvdry@tvdry.com'

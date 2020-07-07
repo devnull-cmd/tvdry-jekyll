@@ -21,7 +21,7 @@ authors:
     deven:
       name:    Deven
       site:    https://deven.tvdry.com
-      avatar:  /assets/images/avatar1.jpg
+      avatar:  assets/images/avatar1.jpg
       bio:     "Hi, I am Deven, SDE at Amazon"
       email:   deven@tvdry.com
       twitter: https://twitter.com/askdeven
@@ -29,7 +29,7 @@ authors:
     shuvam:
       name:    Shuvam
       site:    https://shuvam.tvdry.com
-      avatar:  /assets/images/avatar2.jpg
+      avatar:  assets/images/avatar2.jpg
       bio:     "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:   shuvam@tvdry.com
       twitter: https://twitter.com/askshuvam

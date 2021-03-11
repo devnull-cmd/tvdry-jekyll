@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to TV Dry!"
+title:  "How I got duped by pump and dump"
 categories: [ Default ]
 image: assets/images/demo1.jpg
 ---
-TV Dry is in building phase, we are still figuring out what to post
+
+It was morning after opening Robinhood account.
 

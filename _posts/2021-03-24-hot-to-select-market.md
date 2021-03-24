@@ -4,7 +4,6 @@ title:  "Yield Curve : Market Selection and direction"
 categories: [ learning ]
 ---
 
-# Market Selection and Direction
 Definition of market is not related to definition of stock exchange. For example United States market has NYSE and NASDAQ. but we will not distinguish between the two. For us it is American market.
 
 Each country is a marketplace but we group them into multiple marketplaces. It is good to consider group of marketplaces as well. Because US trade restrictions on Chinese import has impact on all Asian markets. European Union trade agreement will have impact on all marketplaces of Europe.

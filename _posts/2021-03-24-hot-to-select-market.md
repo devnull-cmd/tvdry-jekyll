@@ -5,10 +5,10 @@ categories: [ learning ]
 ---
 
 ### Definitions
-**Market**
+**Market**  
 Definition of market is not related to definition of stock exchange. For example United States market has NYSE and NASDAQ. but we will not distinguish between the two. For us it is American market.
 
-**Bond Yield**
+**Bond Yield**  
 This article from Investopedia can give you better understanding of Yield
 https://www.investopedia.com/terms/b/bond-yield.asp
 

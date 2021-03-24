@@ -6,7 +6,11 @@ categories: [ learning ]
 
 Definition of market is not related to definition of stock exchange. For example United States market has NYSE and NASDAQ. but we will not distinguish between the two. For us it is American market.
 
+<<<<<<< HEAD
 Each country is a marketplace but we group them into multiple marketplaces. It is good to consider group of marketplaces as well. For example US trade restrictions on Chinese import has impact on all Asian countries like China, Taiwan, South Korea. European Union trade agreement will have impact on all countries of EU.
+=======
+Each country is a marketplace but we group them into multiple marketplaces. It is good to consider group of marketplaces as well. Because US trade restrictions on Chinese import has impact on all Asian markets. European Union trade agreement will have impact on all marketplaces of Europe.
+>>>>>>> 5d9dba5f299a6149682ad81e0761054ffa9f4e44
 
 1. Asian Market : HANGSENG, CCI, NSE
 2. European Market : FTSE, DAX

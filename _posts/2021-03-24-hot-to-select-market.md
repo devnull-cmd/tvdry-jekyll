@@ -23,13 +23,9 @@ Market selection is very easy choice if you are only working from within that ma
 
 > For US yield symbols are US10Y, US05Y, US15Y.
 
-<<<<<<< HEAD
 ### Fundamentals
 Now how do we select. Lets say bond yield is increasing. Yield increase means interest rates are increasing.
 Yield has inverse relation to stock market. Yield has multiple impacts. The equation might be more complex or even beyond knowledge of modern day economics. But it is observed that every Yield is inversely proportional to stock market. And it should be obvious when we look at why it fundamentally true.
-=======
-Yield curve has inverse relation to stock market. Yield curve has multiple impacts. The equation might be more complex or even beyond knowledge of modern day economics. But it is observed that every Yield curve (curse) is inversely proportional to stock market. And it should be obvious when we look at why it fundamentally true.
->>>>>>> 8d4dc5506f7128bc3dea96e23cdde39c068f086b
 1. If investors are always on lookout for risk free investment opportunities. If they see yield is rising it indicates that they can make risk free money through government bonds or treasury bills. Cashflow will start moving into bonds and T-Bills.
 2. The second impact is on revenue stream of companies itself. Rising Yield that is interest rate means companies have to pay more interest on their loan. Which reduced profit margin eps and quarterly forecast. Reducing valuation of company.
 3. Most HNI and Prop desk traders rely heavily on borrowed money to create big positions using Futures and options. They start getting money on higher interest rate, since they also need to create higher returns than borrowing rates which are rising, they mostly reduce their positions or do not create very big positions. This causes liquidity crisis in stock market.

@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Yield Curve Market Selection and direction"
-categories: [ trading ]
-image: assets/images/Screen Shot 2021-03-10 at 11.14.17 PM.png
+title:  "Yield Curve : Market Selection and direction"
+categories: [ learning ]
 ---
 
-# Market Selection and Direction
 Definition of market is not related to definition of stock exchange. For example United States market has NYSE and NASDAQ. but we will not distinguish between the two. For us it is American market.
 
-Each country is a marketplace but we group them into multiple marketplaces. It is good to consider group of marketplaces as well. Because US trade restrictions on chinese import has impact on all Asian markets. European Union trade agreement will have impact on all marketplaces of Europe. 
+Each country is a marketplace but we group them into multiple marketplaces. It is good to consider group of marketplaces as well. For example US trade restrictions on Chinese import has impact on all Asian countries like China, Taiwan, South Korea. European Union trade agreement will have impact on all countries of EU.
 
 1. Asian Market : HANGSENG, CCI, NSE
 2. European Market : FTSE, DAX
@@ -16,7 +14,7 @@ Each country is a marketplace but we group them into multiple marketplaces. It i
 
 Market selection is very easy choice if you are only working from within that market. But global traders have to decide where they want to trade. We have to decide where we are trading or inventing in. We decide that by using YIELD Curve.  
 
-> For US yield curve symbol is US10Y, US05Y, US15Y.
+> For US yield curve symbols are US10Y, US05Y, US15Y.
 
 Now how do we select. Lets say yield curve is increasing. Yield curve increase means interest rates are increasing.
 
